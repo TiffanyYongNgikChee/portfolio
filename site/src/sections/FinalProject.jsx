@@ -1,10 +1,8 @@
 import React from 'react'
+import poster from '../assets/fyp_poster.svg'
+import photo from '../assets/fyp_photo.svg'
 
 export default function FinalProject(){
-  const base = import.meta.env.BASE_URL || '/'
-  const poster = `${base}assets/fyp_poster.jpg`
-  const photo = `${base}assets/fyp_photo.jpg`
-
   return (
     <section id="final-project" className="py-12" aria-labelledby="final-project-heading">
       <h2 id="final-project-heading" className="text-2xl font-semibold">Final Year Project — Homomorphic Encryption Explorer</h2>

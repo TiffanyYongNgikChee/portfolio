@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+  <rect width="100%" height="100%" fill="#fff7f3" />
+  <g transform="translate(60,80)">
+    <rect width="680" height="1040" rx="8" ry="8" fill="#ffffff" stroke="#fde2da" />
+    <circle cx="340" cy="300" r="120" fill="#fdeceb" stroke="#f9d5c5" />
+    <text x="200" y="520" font-family="Inter, Arial, sans-serif" font-size="20" fill="#334155">Poster photo placeholder</text>
+  </g>
+</svg>
