@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="100%" height="100%" fill="#f3f4f6" />
+  <g transform="translate(80,80)">
+    <rect width="1040" height="560" rx="8" fill="#ffffff" stroke="#e5e7eb" />
+    <text x="40" y="80" font-family="Inter, Arial, sans-serif" font-size="36" fill="#0f172a">Text Simplification System</text>
+    <text x="40" y="130" font-family="Inter, Arial, sans-serif" font-size="18" fill="#374151">Java CLI tool using word embeddings and cosine similarity.</text>
+    <g transform="translate(40,180)">
+      <rect width="320" height="180" rx="6" fill="#eef2ff" />
+      <text x="20" y="40" font-family="Inter, Arial, sans-serif" font-size="20" fill="#3730a3">Google-1000 words</text>
+      <text x="20" y="70" font-family="Inter, Arial, sans-serif" font-size="14" fill="#4b5563">Semantic simplification</text>
+    </g>
+    <g transform="translate(400,180)">
+      <rect width="560" height="180" rx="6" fill="#ecfccb" />
+      <text x="20" y="40" font-family="Inter, Arial, sans-serif" font-size="20" fill="#365314">Word embeddings</text>
+      <text x="20" y="70" font-family="Inter, Arial, sans-serif" font-size="14" fill="#4b5563">Cosine similarity replacements</text>
+    </g>
+  </g>
+</svg>
