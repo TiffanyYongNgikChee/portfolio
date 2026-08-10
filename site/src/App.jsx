@@ -4,6 +4,7 @@ import Hero from './sections/Hero'
 import About from './sections/About'
 import Skills from './sections/Skills'
 import Projects from './sections/Projects'
+import FinalProject from './sections/FinalProject'
 import OtherProjects from './sections/OtherProjects'
 import Education from './sections/Education'
 import Experience from './sections/Experience'
@@ -20,6 +21,7 @@ export default function App() {
         <About />
         <Skills />
         <Projects />
+        <FinalProject />
         <OtherProjects />
         <Education />
         <Experience />
