@@ -3,6 +3,7 @@ import profile400 from '../assets/profile-400.jpg'
 import profile800 from '../assets/profile-800.jpg'
 
 export default function Hero(){
+  const base = import.meta.env.BASE_URL || '/'
   return (
     <section className="py-12">
       <div className="hero-card container mx-auto">
@@ -19,7 +20,7 @@ export default function Hero(){
             <p className="mt-4 text-[var(--muted)] max-w-xl">I build practical, well-tested software systems with a focus on distributed systems, privacy-preserving computation and full-stack applications. Seeking Graduate and Junior Software Engineer roles in Ireland.</p>
             <div className="mt-6 flex flex-wrap gap-3">
               <a href="#projects" className="btn-accent">View Projects</a>
-              <a href="/TiffanyYongNgikChee.pdf" download className="btn-outline">Download CV</a>
+              <a href={`${base}TiffanyYongNgikChee.pdf`} download className="btn-outline">Download CV</a>
               <a href="https://github.com/TiffanyYongNgikChee" target="_blank" rel="noreferrer" className="btn-outline">GitHub</a>
               <a href="https://linkedin.com/in/tiffanyyong-ngikchee/" target="_blank" rel="noreferrer" className="btn-outline">LinkedIn</a>
             </div>
