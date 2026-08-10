@@ -26,8 +26,3 @@ Contact
 
 - CV: /portfolio/TiffanyYongNgikChee.pdf (served from the live site)
 - Email: tiffanyyongngikchee1997@gmail.com
-
-License
--------
-
-Unless otherwise noted, the repository is free to use for portfolio/demo purposes. If you want a formal license added, open an issue or PR.
